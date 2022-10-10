@@ -1,0 +1,15 @@
+C:\Users\JOSE DADMAR\c#-projetos\Calculadora01\Calculadora01\bin\Debug\net6.0\Calculadora01.exe
+C:\Users\JOSE DADMAR\c#-projetos\Calculadora01\Calculadora01\bin\Debug\net6.0\Calculadora01.deps.json
+C:\Users\JOSE DADMAR\c#-projetos\Calculadora01\Calculadora01\bin\Debug\net6.0\Calculadora01.runtimeconfig.json
+C:\Users\JOSE DADMAR\c#-projetos\Calculadora01\Calculadora01\bin\Debug\net6.0\Calculadora01.dll
+C:\Users\JOSE DADMAR\c#-projetos\Calculadora01\Calculadora01\bin\Debug\net6.0\Calculadora01.pdb
+C:\Users\JOSE DADMAR\c#-projetos\Calculadora01\Calculadora01\obj\Debug\net6.0\Calculadora01.csproj.AssemblyReference.cache
+C:\Users\JOSE DADMAR\c#-projetos\Calculadora01\Calculadora01\obj\Debug\net6.0\Calculadora01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOSE DADMAR\c#-projetos\Calculadora01\Calculadora01\obj\Debug\net6.0\Calculadora01.AssemblyInfoInputs.cache
+C:\Users\JOSE DADMAR\c#-projetos\Calculadora01\Calculadora01\obj\Debug\net6.0\Calculadora01.AssemblyInfo.cs
+C:\Users\JOSE DADMAR\c#-projetos\Calculadora01\Calculadora01\obj\Debug\net6.0\Calculadora01.csproj.CoreCompileInputs.cache
+C:\Users\JOSE DADMAR\c#-projetos\Calculadora01\Calculadora01\obj\Debug\net6.0\Calculadora01.dll
+C:\Users\JOSE DADMAR\c#-projetos\Calculadora01\Calculadora01\obj\Debug\net6.0\refint\Calculadora01.dll
+C:\Users\JOSE DADMAR\c#-projetos\Calculadora01\Calculadora01\obj\Debug\net6.0\Calculadora01.pdb
+C:\Users\JOSE DADMAR\c#-projetos\Calculadora01\Calculadora01\obj\Debug\net6.0\Calculadora01.genruntimeconfig.cache
+C:\Users\JOSE DADMAR\c#-projetos\Calculadora01\Calculadora01\obj\Debug\net6.0\ref\Calculadora01.dll
